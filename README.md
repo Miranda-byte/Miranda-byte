@@ -1,4 +1,4 @@
- ## Hi, I’m DiogoMiranda and I'm a beginner at Web Development
+ ## Hi, I’m Miranda and I'm a beginner at Web Development
  
 
 <div align="center">
