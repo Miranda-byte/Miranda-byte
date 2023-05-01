@@ -1,4 +1,4 @@
- ## Hi, I’m Miranda and I'm a beginner at Web Development
+ ## Hi, I’m Mirandam currently focusing in Cybersecurity, more especially in the fundamentals!!
  
 
 <div align="center">
