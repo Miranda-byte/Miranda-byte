@@ -1,4 +1,4 @@
- ## Hi, I’m Mirandam currently focusing in Cybersecurity, more especially in the fundamentals!!
+ ## Hi, I’m Miranda currently focusing in Cybersecurity, more especially in the fundamentals, pursuing EJPT!!
  
 
 <div align="center">
