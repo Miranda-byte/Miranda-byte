@@ -1,6 +1,5 @@
- ## Hi, I’m Miranda currently focusing in Cybersecurity, more especially in the fundamentals, pursuing EJPT!!
+ ## Hi, I’m Miranda currently focusing in SysAdmin kind of things, focusing in Server administration and Containerization
  
-
 <div align="center">
   <a href="https://github.com/Miranda-byte">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Miranda-byte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
