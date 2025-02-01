@@ -1,4 +1,4 @@
- ## Hi, I’m Miranda currently focusing in SysAdmin kind of things, focusing in Server administration and Containerization
+ ## Hi, I’m Miranda currently focusing in Security Vulns
  
 <div align="center">
   <a href="https://github.com/Miranda-byte">
