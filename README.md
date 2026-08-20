@@ -1,4 +1,4 @@
- ## Hi, I’m Miranda currently focusing in Security Vulns
+ ## Hi, I’m Miranda currently focusing in Cloud Security
  
 <div align="center">
   <a href="https://github.com/Miranda-byte">
