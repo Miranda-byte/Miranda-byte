@@ -1,4 +1,4 @@
- ## Hi, I’m Miranda currently focusing in Cloud Security
+ ## Hi, I’m Miranda currently focusing in Cloud Engineering
  
 <div align="center">
   <a href="https://github.com/Miranda-byte">
